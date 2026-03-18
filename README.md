@@ -42,3 +42,8 @@ The script performs the following operations:
 4. Captions: A natural language description of the image.
 5. Tags: Keywords identifying objects and scenery.
 6. Gender Neutrality: Uses gender-neutral terms in descriptions.
+
+### Example output
+<img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/71898850-ae06-4970-b642-0f43e6b29f6f" />
+
+
